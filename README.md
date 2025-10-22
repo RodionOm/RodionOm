@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Rodion Omelich  
 
-<!--
-**RodionOm/RodionOm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering student at TUS Athlone**  
+💡 Passionate about **Data Analytics, Machine Learning, and Automation**  
+🧩 I enjoy building practical tools with **Python** and turning data into insights.  
+🧠 Focused on writing clean, meaningful code and continuous learning.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack  
+**Languages:** Python, Java, SQL, HTML, CSS  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
+**Concepts:** OOP, Data Visualization, Machine Learning (basics)  
+**Tools:** Git, VS Code, PyCharm, Telegram Bot API  
+
+---
+
+### 🚀 Current Work  
+- Learning **core ML topics** — preprocessing, regression, evaluation  
+
+---
+
+### 🌐 Connect With Me  
+📧 **Email:** bigirodion2005@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/rodion-omelich-bba55b378](https://www.linkedin.com/in/rodion-omelich-bba55b378) 
