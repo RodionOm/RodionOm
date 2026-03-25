@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 Current Work  
-- Learning **core ML topics** — preprocessing, regression, evaluation  
+- Learning **core ML topics**  
 
 ---
 
