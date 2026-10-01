@@ -40,7 +40,6 @@ Irish-language hackathon at Dogpatch Labs, Dublin.
 ### 🚀 Currently
 - Finishing a **search ranking & discoverability capstone** — honest validation, SHAP explanations
 - Building a newspaper delivery system in **Java** with a team (OOP, JUnit, Scrum)
-- Contributor to [mesa-examples](https://github.com/projectmesa/mesa-examples)
 - Working through **NeetCode** in Python, daily — [submissions](https://github.com/RodionOm/neetcode-submissions)
 
 ---
