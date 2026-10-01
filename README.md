@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Rodion Omelich
 
-🎓 Third-year **Software Design with AI for Cloud Computing** student at TUS Athlone
-🔬 Just finished an **ML internship at FlyRank AI** — search ranking over a 79M-row warehouse
-📐 I care more about whether the evaluation is honest than about the model
-🛠 Building end-to-end in **Python** and **Java** — from data to something that runs
+- 🎓 Third-year **Software Design with AI for Cloud Computing** student at TUS Athlone
+- 🔬 Just finished an **ML internship at FlyRank AI** — search ranking over a 79M-row warehouse
+- 📐 I care more about whether the evaluation is honest than about the model
+- 🛠 Building end-to-end in **Python** and **Java** — from data to something that runs
 
 ---
 
 ### 🧰 Tech Stack
-**Languages:** Python, SQL, Java, HTML, CSS
-**ML:** scikit-learn, XGBoost, SHAP, feature engineering, cross-validation
-**Data:** Pandas, NumPy, DuckDB, Hugging Face, Matplotlib, Seaborn
-**Concepts:** OOP, leakage-safe validation, Precision@K, agent-based modelling
-**Tools:** Git, Mesa / Solara, JUnit, Power BI, VS Code, PyCharm
 
+- **Languages** — Python, SQL, Java, HTML, CSS
+- **ML** — scikit-learn, XGBoost, SHAP, feature engineering, cross-validation
+- **Data** — Pandas, NumPy, DuckDB, Hugging Face, Matplotlib, Seaborn
+- **Concepts** — OOP, leakage-safe validation, Precision@K, agent-based modelling
+- **Tools** — Git, Mesa / Solara, JUnit, Power BI, VS Code, PyCharm
 ---
 
 ### 📌 Selected projects
