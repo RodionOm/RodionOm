@@ -18,14 +18,14 @@
 
 ### 📌 Selected projects
 
+**[HomesAbove](https://github.com/Adwerse/HouseAbove)** — 🏆 one of 3 winning teams of 32 at Build for Ireland 2026
+(OpenAI × Dogpatch Labs). Helps councils find vacant floors above shops. **My part:** the volunteer walk
+pipeline (GPS/EXIF import, walk segmentation, idempotent MongoDB upserts, pHash de-duplication) and a
+FastAPI badge engine with real-time SSE events (27 tests).
+
 **[Airbnb Dublin — Market Analysis & Price Prediction](https://github.com/RodionOm/Airbnb_Dublin)**
 End-to-end pipeline on 6,945 Dublin listings. XGBoost reached **R² 0.775 (RMSE €140.72)**
 against a 0.655 linear baseline; SHAP for the price drivers; Power BI dashboard on top.
-
-**[mesa-behavioral-prototypes](https://github.com/RodionOm/mesa-behavioral-prototypes)**
-A reusable behaviour layer for Mesa agent models — `Action`, `SoftmaxPolicy`, `BehaviorMixin`.
-Validated across two unrelated domains specifically to find where the abstraction breaks.
-Preparation for a GSoC 2026 proposal.
 
 **[AI Hiring Copilot](https://github.com/RodionOm/ai-hiring-copilot)**
 Scores a CV against a job description — LLM analysis plus rule-based scoring, structured
