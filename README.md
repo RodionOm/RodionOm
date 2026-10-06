@@ -14,6 +14,7 @@
 - **Data** — Pandas, NumPy, DuckDB, Hugging Face, Matplotlib, Seaborn
 - **Concepts** — OOP, leakage-safe validation, Precision@K, agent-based modelling
 - **Tools** — Git, Mesa / Solara, JUnit, Power BI, VS Code, PyCharm
+- - **Backend** — FastAPI, REST APIs, MongoDB Atlas, pytest, Docker
 ---
 
 ### 📌 Selected projects
