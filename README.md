@@ -10,7 +10,7 @@
 ### 🧰 Tech Stack
 
 - **Languages** — Python, SQL, Java, HTML, CSS
-- **ML** — scikit-learn, XGBoost, SHAP, feature engineering, cross-validation
+- **ML** — scikit-learn, feature engineering, cross-validation
 - **Data** — Pandas, NumPy, DuckDB, Hugging Face, Matplotlib, Seaborn
 - **Concepts** — OOP, leakage-safe validation, Precision@K, agent-based modelling
 - **Tools** — Git, Mesa / Solara, JUnit, Power BI, VS Code, PyCharm
@@ -39,9 +39,9 @@ Irish-language hackathon at Dogpatch Labs, Dublin.
 ---
 
 ### 🚀 Currently
-- Finishing a **search ranking & discoverability capstone** — honest validation, SHAP explanations
+- Finishing a **search ranking & discoverability capstone** — honest validation
 - Building a newspaper delivery system in **Java** with a team (OOP, JUnit, Scrum)
-- Working through **NeetCode** in Python, daily — [submissions](https://github.com/RodionOm/neetcode-submissions)
+- Studying docker
 
 ---
 
