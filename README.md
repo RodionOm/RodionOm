@@ -15,6 +15,7 @@
 - **Concepts** — OOP, leakage-safe validation, Precision@K, agent-based modelling
 - **Tools** — Git, Mesa / Solara, JUnit, Power BI, VS Code, PyCharm
 - **Backend** — FastAPI, REST APIs, MongoDB Atlas, pytest, Docker
+- **AI / LLM** — OpenAI API, structured JSON outputs, Streamlit
 ---
 
 ### 📌 Selected projects
@@ -42,12 +43,15 @@ re-scores it by keyword coverage (0.75 LLM + 0.25 keywords). Streamlit UI, Docke
 Chrome extension (Manifest V3) + Node server that turns any page into an Irish lesson:
 summaries at three depths, word cards, a quiz. Built at an Irish-language hackathon at Dogpatch Labs, Dublin.
 
+**[Page Refresh Ranker](https://github.com/RodionOm/page-refresh-ranker)** — the FlyRank model as a web app:
+upload page metrics, get a top-k review queue with plain-English reasons and a per-client cap.
+FastAPI REST API, SQLite, Pydantic validation, Docker, CI, 44 tests.
+
 ---
 
 ### 🚀 Currently
 - Finishing the **search ranking capstone** paper
 - Building a newspaper delivery system in **Java** with a team (OOP, JUnit, Scrum)
-- Learning **Docker**
 
 ---
 
